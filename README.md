@@ -29,8 +29,6 @@ This is  the first page that I did not create in Figma, I knew I did not want an
 
 ## The Conclusion
 
-Animation is a great way to give your site that extra oumph that it might be lacking. I would love to master the animation part of coding because I believe that animation will be a big part of web design in the future. One of my favorite project so far.
-
 API is a must know skill so you can create a website with ever changing data. I liked the the process and I liked learning how to set everything up and working with the data. 
 
 ## Live Site
